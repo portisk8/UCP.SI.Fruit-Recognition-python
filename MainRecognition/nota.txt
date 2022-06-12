@@ -1,2 +1,3 @@
 Tensorflow adaptado del siguiente sitio:
 https://www.tensorflow.org/tutorials/load_data/images#download_the_flowers_dataset
+https://www.tensorflow.org/install/gpu?hl=es-419
