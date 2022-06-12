@@ -1,0 +1,2 @@
+# UCP.SI.Fruit-Recognition-python
+Proyecto de desarrollo de un software inteligente para la detección y clasificación de frutas en imágenes y video en tiempo real.  Específicamente se busca clasificar 7 patrones de imágenes distintos, de los cuales cada uno corresponde a una fruta en particular con características puntuales. Esta clasificación por etiquetas o “tipos de frutas” se llevará a cabo para el posterior recuento y separación de las frutas a ser despachadas y/o exportadas.
