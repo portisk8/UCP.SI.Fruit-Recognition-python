@@ -1,0 +1,1 @@
+Se debe mantener la siguiente estructura de la carpeta para las imagenes que serán usadas como entrenamiento.
